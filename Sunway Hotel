@@ -15,4 +15,7 @@ class SunwayHotel
 		System.out.println("You have successfully logged in");
 		
 	}
+	
+	char pass []= new char[8]
+	
 }
