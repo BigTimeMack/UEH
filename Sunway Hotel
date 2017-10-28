@@ -1,0 +1,18 @@
+import java.util.*;
+class SunwayHotel 
+{
+	int roomNo;
+	String pass;
+
+	public SunwayHotel(int no, String pass)
+	{
+		roomNo = no;
+		this.pass = pass;
+	}
+	
+	void display()
+	{
+		System.out.println("You have successfully logged in");
+		
+	}
+}
